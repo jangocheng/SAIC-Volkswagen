@@ -77,7 +77,7 @@
   				<a href="javascript">沪公网安备&nbsp;31011402001355号</a>
   			</div>
   			<div class="qr-code">
-	  			<img src="assets/BackTop.gif" />
+	  			<img src="src/assets/52.jpg" />
 	  		</div>
   		</div>
   	</footer>
