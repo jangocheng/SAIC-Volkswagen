@@ -91,11 +91,12 @@
 		color: #000000;
 	}
 	.news_text{
-		width: 361px;
+		width: 331px;
 		height: 69px;
-		text-indent: 56px;
+		text-indent: 26px;
 		font-size: 12px;
 		margin-top: 35px;
+		margin-left: 15px;
 	}
 	.news_text a:hover{
 		text-decoration: none;
@@ -107,7 +108,7 @@
 		margin-top: 48px;
 	}
 	.news_left{
-		width: 91px;
+		width: 111px;
 		font-size: 12px;
 	    color: #b7b7b7;
 	    line-height: 20px;
@@ -118,6 +119,6 @@
 		 width: 100;
 		 height: 20px;
 		 padding-right: 10px;
-		  margin-left: 137px;
+		  margin-left: 117px;
 	}
 </style>

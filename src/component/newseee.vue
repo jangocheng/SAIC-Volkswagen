@@ -146,7 +146,6 @@
 		height: 680px;
 		margin: 0 auto;
 		background-color: #ccc;
-		text-decoration: none;
 	}
 	.news_Advertisement .ul{
 		width: 1300px;
@@ -158,6 +157,9 @@
 		width: 1300px;
 		height: 55px;
 		border-bottom: 1px dashed  #ffffff;
+	}
+	.news_Advertisement .ul li a {
+		text-decoration: none;
 	}
 	.news_Advertisement .ul .img{
 		width: 11px;
